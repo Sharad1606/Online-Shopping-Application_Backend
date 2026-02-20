@@ -1,3 +1,6 @@
+A full-stack E-commerce application built with Spring Boot (backend) and React (frontend). It provides a simple yet functional shopping experience with product management, cart functionality, and a clean black-and-white theme
+
+ 
  Key Features
 - Home Page: A clean and minimal landing page showcasing available products.
 - Product Management (CRUD):
