@@ -1,0 +1,26 @@
+ Key Features
+- Home Page: A clean and minimal landing page showcasing available products.
+- Product Management (CRUD):
+- Add, update, delete, and view products.
+- Support for product images to enhance the catalog.
+- Shopping Cart:
+- Add products to cart.
+- View cart items with quantity and total price.
+- Remove items when needed.
+- Theme Support:
+- Elegant black-and-white theme for a modern, minimalistic look.
+
+Tech Stack
+- Backend: Spring Boot (REST APIs, product and cart management, image handling).
+- Frontend: React (dynamic UI, responsive design, state management).
+- Database: Any relational database (e.g., MySQL/PostgreSQL) for product and cart storage.
+- Other Tools:
+- Axios/Fetch for API communication.
+- CSS/Styled Components for theme styling.
+
+Future Enhancements
+- User authentication & authorization.
+- Payment gateway integration.
+- Order history & tracking.
+- Dark/light theme toggle.
+
